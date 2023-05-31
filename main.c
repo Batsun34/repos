@@ -18,10 +18,5 @@ int main ()
 
     printf("raznica: %d\n", first - second);
 
-    printf("proizvedenie: %d\n", first * second);
-
-    if(second != 0)
-        printf("delenie: %d\n", first / second);
-    else
-        printf("na 0 ne delim");
+    printf("proizvedenie: %d\n", first / second);
 }
