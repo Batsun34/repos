@@ -1,6 +1,8 @@
 #include "sdt.h"
 #include <stdio.h>
 
+
+//ПО УЧЕБНОЕ
 int main ()
 {
     int first = 0;
