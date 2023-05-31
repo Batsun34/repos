@@ -19,4 +19,5 @@ int main ()
     printf("raznica: %d\n", first - second);
 
     printf("proizvedenie: %d\n", first * second);
+    printf("proizvedenie: %d\n", first / second);
 }
