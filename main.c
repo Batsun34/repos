@@ -11,4 +11,6 @@ int main ()
 
     printf("Input 2 num:\n");
     scanf("%d", &second);
+
+    printf("Sum: %d\n", first + second);
 }
