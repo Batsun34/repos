@@ -13,4 +13,6 @@ int main ()
     scanf("%d", &second);
 
     printf("Sum: %d\n", first + second);
+
+    printf("raznica: %d\n", first - second);
 }
